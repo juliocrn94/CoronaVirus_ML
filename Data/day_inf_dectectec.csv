@@ -1,5 +1,5 @@
 location,Day_inf_detected
-China,1
+Ch-Hubei,1
 Italy,10
 Iran,29
 "Korea, South",1
@@ -8,17 +8,34 @@ Germany,6
 France,3
 US,1
 Switzerland,35
+Ch-Guangdong,1
+Ch-Henan,1
+Ch-Zhejiang,1
 United Kingdom,10
 Norway,36
+Ch-Hunan,1
+Ch-Anhui,1
 Sweden,10
 Netherlands,37
+Ch-Jiangxi,1
 Denmark,37
 Japan,1
+Ch-Shandong,1
 Cruise Ship,17
 Belgium,14
 Austria,35
+Ch-Jiangsu,1
+Ch-Chongqing,1
+Ch-Sichuan,1
+Ch-Heilongjiang,2
+Ch-Beijing,1
+Ch-Shanghai,1
 Qatar,39
+Ch-Hebei,1
+Ch-Fujian,1
+Ch-Guangxi,1
 Australia,5
+Ch-Shaanxi,2
 Malaysia,4
 Greece,36
 Finland,8
@@ -28,10 +45,18 @@ Canada,5
 Israel,31
 Czechia,40
 Slovenia,44
+Ch-Yunnan,1
 Portugal,41
+Ch-Hainan,1
 Iceland,38
 Brazil,36
+Ch-Guizhou,1
+Ch-Hong Kong,2
+Ch-Tianjin,1
+Ch-Shanxi,1
+Ch-Gansu,2
 Ireland,39
+Ch-Liaoning,1
 Romania,36
 Estonia,37
 Philippines,9
@@ -42,41 +67,46 @@ Poland,43
 Saudi Arabia,41
 India,9
 Indonesia,41
+Ch-Jilin,2
 Lebanon,31
 United Arab Emirates,8
 Thailand,1
 San Marino,37
+Ch-Xinjiang,2
+Ch-Ningxia,1
+Ch-Inner Mongolia,3
 Chile,42
 Russia,10
-Taiwan*,1
 Vietnam,2
+Taiwan*,1
 Luxembourg,39
 Serbia,45
 Slovakia,45
 Bulgaria,47
 Brunei,48
-Albania,48
+Peru,45
 South Africa,44
 Croatia,35
-Peru,45
+Albania,48
 Algeria,35
 Panama,49
 Argentina,42
 Pakistan,36
-Hungary,43
 Georgia,36
+Hungary,43
 Ecuador,40
 Belarus,38
 Costa Rica,45
-Cyprus,48
 Mexico,38
+Cyprus,48
 Latvia,41
 Colombia,45
 Oman,34
-Malta,46
-Tunisia,43
 Bosnia and Herzegovina,44
 Armenia,40
+Malta,46
+Tunisia,43
+Ch-Qinghai,4
 Morocco,41
 Azerbaijan,40
 North Macedonia,36
@@ -84,53 +114,56 @@ Moldova,47
 Afghanistan,34
 Dominican Republic,40
 Maldives,47
-Sri Lanka,6
 Senegal,41
+Sri Lanka,6
 Bolivia,50
+Ch-Macau,1
 Martinique,46
 Lithuania,38
 Jamaica,50
 Cambodia,6
-Paraguay,47
-Reunion,50
 New Zealand,38
 Kazakhstan,52
+Reunion,50
+Paraguay,47
 French Guiana,46
 Turkey,50
 Liechtenstein,43
-Cuba,51
 Uruguay,53
+Cuba,51
 Bangladesh,47
-Ghana,53
 Ukraine,42
-Venezuela,53
-Seychelles,53
-Trinidad and Tobago,53
+Ghana,53
 Jersey,53
-Nigeria,38
+Venezuela,53
+Aruba,52
+Burkina Faso,49
 Monaco,39
+Nigeria,38
+Namibia,53
 Congo (Kinshasa),50
 Honduras,50
-Burkina Faso,49
+Seychelles,53
+Trinidad and Tobago,53
 Cameroon,45
-Aruba,52
-Namibia,53
-Bhutan,45
-Antigua and Barbuda,52
-Guadeloupe,52
-Cayman Islands,52
+Suriname,53
+Togo,45
+Sudan,52
+Guernsey,53
+Saint Vincent and the Grenadines,53
+Saint Lucia,53
 Andorra,41
+Antigua and Barbuda,52
+Bhutan,45
+Cayman Islands,52
+Ch-Tibet,9
 Cote d'Ivoire,50
 Curacao,53
-Togo,45
 Eswatini,53
 Ethiopia,52
 Gabon,53
-Sudan,52
-Suriname,53
-Nepal,4
+Guadeloupe,52
 Guatemala,53
-Guernsey,53
 Guinea,52
 Guyana,51
 Holy See,45
@@ -138,7 +171,7 @@ Jordan,42
 Kenya,52
 Mauritania,53
 Mongolia,49
-Saint Vincent and the Grenadines,53
-Saint Lucia,53
+Nepal,4
 Rwanda,53
 occupied Palestinian territory,54
+Total,1
