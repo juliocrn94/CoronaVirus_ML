@@ -4,6 +4,11 @@ Final project for Data Analytics bootcamp at Ironhack Mexico City.
 
 Consists of a 3 part analysis using Jupyter Notebook to train a model that determines the components for a logistic growth curve that represents the number of infected vs time, for a given country/location.
 
+
+# V2
+
+V2 compiles the previous 3 parts into a single Jupyter Notebook file.
+
 ## Variables
 
 1. Population
@@ -14,7 +19,6 @@ Consists of a 3 part analysis using Jupyter Notebook to train a model that deter
 6. Foreign Turism
 7. Health expenditure (USD)
 8. Day first infected was detected
-
 
 ## Part 1
 
@@ -50,3 +54,9 @@ Tries the following models to determine the components (L, k, a):
 - EnsembleRegressors
 
 Uses the best model for each component (L, k, a) and predicts the components for Mexico.
+
+# Next Steps
+
+1. Causality analysis to check what variables affect specific components.
+2. Add upper and lower limits to the predictions based on variability.
+3. Add number of deaths as a component. high mortality rate (deaths / cased closed) could indicate the number of cases is underestimated.
